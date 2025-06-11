@@ -1,7 +1,3 @@
-# Helo there!
-
-### What's up?
-
 ### Grogu says "Helo!" :)
 ![bbyoda](https://user-images.githubusercontent.com/109150646/179828406-230d1116-d4bf-4082-83f5-3e080165e7e3.jpg)
 
